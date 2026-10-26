@@ -42,7 +42,7 @@ serving; the browser runtime and CLI described above are part of ongoing develop
 In an existing Rust project:
 
 ```sh
-cargo add ruvane@=0.1.0-alpha.2
+cargo add ruvane
 ```
 
 ```rust
@@ -59,7 +59,7 @@ fn main() {
 ```
 
 Explore the [published crate](https://crates.io/crates/ruvane) and
-[API documentation](https://docs.rs/ruvane/0.1.0-alpha.2/ruvane/).
+[API documentation](https://docs.rs/ruvane/latest/ruvane/).
 Requires Rust 1.85 or newer.
 
 ---
